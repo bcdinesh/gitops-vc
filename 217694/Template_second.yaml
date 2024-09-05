@@ -9,9 +9,8 @@ metadata:
   path: /
   home: "217694"
 spec:
-- template: first
+- template: second
   scheduledStartDate: 2024-09-05T03:30:00Z
-  dueDate: 2024-09-05T04:30:00Z
   phases:
   - phase: New Phase
   riskProfile: Default risk profile
