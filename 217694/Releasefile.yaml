@@ -1,6 +1,6 @@
 # Exported from:        http://localhost:5516/
 # Release version:      24.1.6
-# Date created:         Thu Sep 05 07:36:04 GMT 2024
+# Date created:         Fri Sep 06 15:06:46 GMT 2024
 
 ---
 apiVersion: xl-release/v1
@@ -9,5 +9,4 @@ spec:
   imports:
   - Notifications.yaml
   - Permissions.yaml
-  - Template_first.yaml
-  - Template_second.yaml
+  - Templates.yaml
