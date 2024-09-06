@@ -1,0 +1,13 @@
+# Exported from:        http://localhost:5516/
+# Release version:      23.1.6
+# Date created:         Fri Sep 06 15:11:21 UTC 2024
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Connections.yaml
+  - Notifications.yaml
+  - Permissions.yaml
+  - Templates.yaml
