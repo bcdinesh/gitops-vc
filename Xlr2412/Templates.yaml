@@ -1,0 +1,17 @@
+# Exported from:        http://localhost:5516/
+# Release version:      24.1.2
+# Date created:         Tue Sep 10 12:21:16 GMT 2024
+
+---
+apiVersion: xl-release/v1
+kind: Templates
+metadata:
+  path: /
+  home: xlr2412
+spec:
+- template: test
+  scheduledStartDate: 2024-09-10T03:30:00Z
+  phases:
+  - phase: New Phase
+  riskProfile: Default risk profile
+  author: admin
