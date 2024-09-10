@@ -6,7 +6,6 @@
 apiVersion: xl-release/v1
 kind: Templates
 metadata:
-  path: /
   home: xlr2412
 spec:
 - template: test
